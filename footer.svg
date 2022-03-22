@@ -76,15 +76,15 @@
 <div class="container">
         <div class="wrapper">
             <div align="top" class="typing-demo">
-          
+             <p>
               🔭Estou trabalhando em frontend
-		    <br>
+		 
               🌱Estou estudando react
-			<br>    
+			   
               💬perguntas sobre arduino duvidas de implementação
-				<br>
+				
               ⚡Fun fact: desenvolvedor de jogos e bughunter 
-            
+              </p>
             </div>
         </div>
 </div>
