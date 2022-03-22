@@ -77,10 +77,10 @@
         <div class="wrapper">
             <div align="top" class="typing-demo">
           
-              <h3>🔭Estou trabalhando em frontend</h3>
-              <h3>🌱Estou estudando react</h3>
-              <h3>💬perguntas sobre arduino duvidas de implementação</h3>
-              <h3>⚡Fun fact: desenvolvedor de jogos e bughunter </h3>
+              <h5>🔭Estou trabalhando em frontend</h5>
+              <h5>🌱Estou estudando react</h5>
+              <h5>💬perguntas sobre arduino duvidas de implementação</h5>
+              <h5>⚡Fun fact: desenvolvedor de jogos e bughunter </h5>
             
             </div>
         </div>
