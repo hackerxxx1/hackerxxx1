@@ -1,8 +1,9 @@
 ## Gabriel Rodrigues
 <div align="center">
   <a href="https://github.com/hackerxxx1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackerxxx1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerxxx1&layout=compact&langs_count=7&theme=dark"/>
+    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/310/121/png-transparent-ichigo-kurosaki-zangetsu-byakuya-kuchiki-hollow-bleach-ichigo-kurosaki-white-black-hair-monochrome.png">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackerxxx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerxxx1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +21,7 @@
   <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg">
   <img align="center" alt="trello" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/310/121/png-transparent-ichigo-kurosaki-zangetsu-byakuya-kuchiki-hollow-bleach-ichigo-kurosaki-white-black-hair-monochrome.png">
+  
 </div>
   
   ##
