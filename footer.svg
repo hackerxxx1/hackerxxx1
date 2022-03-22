@@ -50,8 +50,8 @@
           
         }
         .typing-demo {
-          width: 55ch;
-          animation: typing 5s steps(55), blink .3s step-end infinite alternate;
+          width: 200ch;
+          animation: typing 10s steps(200), blink .3s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
           border-right: 3px solid;
@@ -78,8 +78,11 @@
             <div align="top" class="typing-demo">
           
               🔭Estou trabalhando em frontend
+		    <br>
               🌱Estou estudando react
+			<br>    
               💬perguntas sobre arduino duvidas de implementação
+				<br>
               ⚡Fun fact: desenvolvedor de jogos e bughunter 
             
             </div>
