@@ -1,9 +1,9 @@
 ## Gabriel Rodrigues
 <div align="center">
   <a href="https://github.com/hackerxxx1">
-    <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/310/121/png-transparent-ichigo-kurosaki-zangetsu-byakuya-kuchiki-hollow-bleach-ichigo-kurosaki-white-black-hair-monochrome.png">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hackerxxx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerxxx1&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img align="left" alt="pic" height="150" style="border-radius:50px;" src="https://w7.pngwing.com/pngs/310/121/png-transparent-ichigo-kurosaki-zangetsu-byakuya-kuchiki-hollow-bleach-ichigo-kurosaki-white-black-hair-monochrome.png">
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hackerxxx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerxxx1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
