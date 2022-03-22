@@ -41,8 +41,7 @@
  
 </div>
 
-- 🔭 Estou trabalhando em frontend
-- 🌱 Estou estudando react
-- 💬 pergunteme sobre arduino ou duvidas de implementação
-- ⚡ Fun fact: desenvolvedor de jogos e bughunter nas horas vagas
+<p align="top">
+<img src="footer.svg" />
+</p>
 
