@@ -76,12 +76,12 @@
 <div class="container">
         <div class="wrapper">
             <div align="top" class="typing-demo">
-             <ul>
-              <li>🔭Estou trabalhando em frontend</li>
-              <li>🌱Estou estudando react</li>
-              <li>💬perguntas sobre arduino duvidas de implementação</li>
-              <li>⚡Fun fact: desenvolvedor de jogos e bughunter </li>
-             </ul> 
+          
+              <h3>🔭Estou trabalhando em frontend</h3>
+              <h3>🌱Estou estudando react</h3>
+              <h3>💬perguntas sobre arduino duvidas de implementação</h3>
+              <h3>⚡Fun fact: desenvolvedor de jogos e bughunter </h3>
+            
             </div>
         </div>
 </div>
