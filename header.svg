@@ -44,8 +44,7 @@
           height: 200px;
           /*This part is important for centering*/
           display: flex;
-	  align-items: center;
-	  justify-content: center;		
+          
           
         }
         .typing-demo {
