@@ -3,21 +3,7 @@
 </p>
 
 &nbsp;
-<style>
 
-    .bla {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .bla {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-  
-  </style>
 
 <div align="center">
   <a href="https://github.com/hackerxxx1">
@@ -25,9 +11,10 @@
   <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=hackerxxx1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img align="right" height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackerxxx1&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" class="bla" src="logo.svg">
+  <img align="center" alt="React" height="30" width="40"  src="logo.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
